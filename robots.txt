@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmoudalialimahmoud24-gif.github.io/titai-download/sitemap.xml
